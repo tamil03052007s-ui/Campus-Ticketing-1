@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Placement Prep: Aptitude and Coding Rounds",
+    "category": "Career",
+    "description": "Final-year students who cleared recent campus drives walk through the aptitude test, the coding round and the group discussion, with time for questions.",
+    "venue": "Anna Auditorium",
+    "inDays": 2,
+    "timeIST": "17:00",
+    "capacity": 400
+  },
+  {
+    "title": "Git and GitHub for First Years",
+    "category": "Workshop",
+    "description": "Bring a laptop. By the end you will have a repository, a pull request and a working understanding of merge conflicts.",
+    "venue": "Technology Tower, Lab 3",
+    "inDays": 3,
+    "timeIST": "14:00",
+    "capacity": 60
+  },
+  {
+    "title": "24-Hour Hackathon Kickoff",
+    "category": "Technical",
+    "description": "Form teams of up to four, pick a problem statement and start building. Food and power strips provided.",
+    "venue": "Silver Jubilee Tower, Seminar Hall",
+    "inDays": 6,
+    "timeIST": "09:00",
+    "capacity": 150
+  },
+  {
+    "title": "Open Mic Night",
+    "category": "Cultural",
+    "description": "Music, poetry and stand-up. Sign up at the door to perform; everyone else just turns up.",
+    "venue": "Open Air Theatre",
+    "inDays": 8,
+    "timeIST": "18:30",
+    "capacity": 250
+  },
+  {
+    "title": "Inter-Hostel Football Finals",
+    "category": "Sports",
+    "description": "The two unbeaten hostel teams meet for the trophy. Entry is free; registering just helps us plan the stands.",
+    "venue": "Main Ground",
+    "inDays": 10,
+    "timeIST": "16:00",
+    "capacity": 500
+  },
+  {
+    "title": "Robotics Club Demo Day",
+    "category": "Club",
+    "description": "Live demos of this semester's builds, with time to ask the teams how they did it.",
+    "venue": "Innovation Lab",
+    "inDays": 12,
+    "timeIST": "15:00",
+    "capacity": 80
+  },
+  {
+    "title": "Talk: From Campus to Startup",
+    "category": "Talk",
+    "description": "An alumnus who left a placement offer to start a company talks about what the first two years were really like.",
+    "venue": "Main Building, Hall 2",
+    "inDays": 15,
+    "timeIST": "11:00",
+    "capacity": 200
+  },
+  {
+    "title": "Alumni Fireside Chat",
+    "category": "Talk",
+    "description": "A small-room conversation about first jobs and second thoughts. Very limited seating.",
+    "venue": "Library Seminar Room",
+    "inDays": 18,
+    "timeIST": "16:30",
+    "capacity": 5
+  }
+]
